@@ -1,0 +1,11 @@
+flask
+joblib
+pandas
+flask-cors
+# Use a modern scikit-learn binary that installs on this Python runtime
+scikit-learn==1.7.2
+numpy
+# Gunicorn for production WSGI server
+gunicorn
+requests
+haversine
